@@ -1,0 +1,54 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v175)
+"   /Volumes/Work/Projects/LLM_Course/GitHub_Repo_llm_engineering-main
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+GitHub_Repo_llm_engineering-main/
+| assets/
+| community-contributions/
+| extras/
+| guides/
+| setup/
+| week1/
+| week2/
+| week3/
+| week4/
+| week5/
+| week6/
+| week7/
+| week8/
+| ._.cursorignore*
+| ._.gitignore*
+| ._.python-version*
+| ._LICENSE*
+| ._README.md*
+| ._assets*
+| ._community-contributions*
+| ._environment.yml*
+| ._extras*
+| ._guides*
+| ._pyproject.toml*
+| ._requirements.txt*
+| ._setup*
+| ._uv.lock*
+| ._week1*
+| ._week2*
+| ._week3*
+| ._week4*
+| ._week5*
+| ._week6*
+| ._week7*
+| ._week8*
+| .cursorignore*
+| .gitignore*
+| .python-version*
+| LICENSE*
+| README.md*
+| environment.yml*
+| pyproject.toml*
+| requirements.txt*
+| uv.lock*
+| .DS_Store
