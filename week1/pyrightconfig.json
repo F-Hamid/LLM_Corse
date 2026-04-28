@@ -1,4 +1,21 @@
 {
   "venvPath": ".",
-  "venv": ".venv"
+  "venv": ".venv",
+
+  "typeCheckingMode": "basic",
+
+  "reportMissingImports": false,
+  "reportMissingTypeStubs": false,
+
+  "reportUnknownVariableType": false,
+  "reportUnknownMemberType": false,
+  "reportUnknownArgumentType": false,
+  "reportUnknownParameterType": false,
+
+  "reportUnusedCallResult": false,
+  "reportUnusedVariable": false,
+
+  "reportOptionalMemberAccess": false,
+  "reportOptionalSubscript": false,
+  "reportOptionalCall": false
 }
